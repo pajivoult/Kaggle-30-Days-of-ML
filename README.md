@@ -16,4 +16,4 @@ Submission files have to be formatted as follows:
   etc.
 
 
-The code in the repo allowed be to rank ####/####
+The code in the repo allowed me to rank ####/####
