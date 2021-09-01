@@ -8,4 +8,4 @@ The original dataset deals with predicting the amount of an insurance claim. Alt
 
 Submissions were scored on the root mean squared error (RMSE)
 
-The code in the repo allowed me to be in the Top 25% (1842nd of 7573)
+The code in the repo allowed me to be in the Top 25% (1842nd of 7573) with a Private Score of 0.71721
