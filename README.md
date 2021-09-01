@@ -16,4 +16,4 @@ Submission files have to be formatted as follows:
   etc.
 
 
-The code in the repo allowed me to rank ####/####
+The code in the repo allowed me to be in the Top 25% (1842nd of 7573)
