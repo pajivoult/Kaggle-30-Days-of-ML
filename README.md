@@ -9,11 +9,16 @@ The original dataset deals with predicting the amount of an insurance claim. Alt
 Submissions were scored on the root mean squared error (RMSE)
 
 Submission files have to be formatted as follows:
-  id,target
-  0,0.5
-  5,10.2
-  15,2.2
-  etc.
+
+id,target
+
+0,0.5
+
+5,10.2
+
+15,2.2
+
+etc.
 
 
 The code in the repo allowed me to be in the Top 25% (1842nd of 7573)
